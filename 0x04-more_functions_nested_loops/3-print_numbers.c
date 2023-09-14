@@ -2,7 +2,7 @@
 
 /**
 * print_numbers - this is the function of the task
-*@i : the function prarmeter
+*@i : counter
 * Return: void
 */
 void print_numbers(void)
