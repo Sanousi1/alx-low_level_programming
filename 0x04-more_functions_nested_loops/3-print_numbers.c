@@ -2,7 +2,6 @@
 
 /**
 * print_numbers - this is the function of the task
-*@i : counter
 * Return: void
 */
 void print_numbers(void)
@@ -13,5 +12,5 @@ void print_numbers(void)
 	{
 		_putchar(i + '0');
 	}
-	_putchar('\n');
+_putchar('\n');
 }
