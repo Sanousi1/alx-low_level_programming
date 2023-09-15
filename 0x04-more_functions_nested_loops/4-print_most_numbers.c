@@ -2,7 +2,6 @@
 
 /**
 * print_most_numbers - this is the function of the task
-*@i : counter
 * Return: void
 */
 void print_most_numbers(void)
@@ -16,5 +15,5 @@ void print_most_numbers(void)
 			_putchar(i + '0');
 		}
 	}
-	_putchar('\n');
+_putchar('\n');
 }
