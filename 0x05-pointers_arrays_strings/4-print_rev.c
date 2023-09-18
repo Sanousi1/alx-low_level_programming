@@ -3,7 +3,7 @@
 /**
 * print_rev - this is the function of the task
 *@s : the function prarmeter
-* Return:void
+* Return: void
 */
 void print_rev(char *s)
 {
