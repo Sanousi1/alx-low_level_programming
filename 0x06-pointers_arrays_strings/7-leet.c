@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 
 /**
 * leet - this is the function of the task
@@ -14,6 +14,6 @@ char *leet(char *str)
 	for (i = 0; str[i] != '\0'; i++)
 		for (j = 0; c[j] != '\0'; j++)
 			if (str[i] == c[j])
-				str[i] = d[i];
+				str[i] = d[j];
 	return (str);
 }
