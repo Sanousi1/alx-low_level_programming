@@ -3,7 +3,7 @@
 /**
 * reverse_array - this is the function of the task
 *@a : the function prarmeter
-*@a : the function prarmeter
+*@n : the function prarmeter
 * Return: void
 */
 void reverse_array(int *a, int n)
