@@ -2,10 +2,10 @@
 
 /**
 * *string_toupper - this is the function of the task
-*@* : the function prarmeter
+*@str : the function prarmeter
 * Return: return result
 */
-char *string_toupper(char *)
+char *string_toupper(char *str)
 {
 	int i;
 
